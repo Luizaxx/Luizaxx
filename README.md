@@ -21,5 +21,5 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGQycDg4d2F3c3poMjBjdnkxOTZ2OHhieTJscnhubTl3bW85bmtkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9fjYF0XOompE13UCt/giphy.gif" width="230">
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 
