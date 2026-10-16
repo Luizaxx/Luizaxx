@@ -12,10 +12,10 @@
 -  Interesses: modelagem de dados, arquitetura de pipelines, qualidade de dados e LLMs aplicados a dados
 
 Outras áreas que me interessam
- Arquitetura de software: padrões arquiteturais, design patterns, modelagem UML (casos de uso, classes, sequência, componentes)
- Modelagem de processos: BPMN para mapear e otimizar fluxos de negócio
- Engenharia de requisitos: elicitação, especificação, histórias de usuário e priorização
- Qualidade e testes de software: avaliação com ISO/IEC 25010 e GQM, planejamento e execução de testes
+- Arquitetura de software: padrões arquiteturais, design patterns, modelagem UML (casos de uso, classes, sequência, componentes)
+- Modelagem de processos: BPMN para mapear e otimizar fluxos de negócio
+- Engenharia de requisitos: elicitação, especificação, histórias de usuário e priorização
+- Qualidade e testes de software: avaliação com ISO/IEC 25010 e GQM, planejamento e execução de testes
 
 
 ### Stack de dados
@@ -24,6 +24,7 @@ Outras áreas que me interessam
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=databricks&logoColor=800080)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 ### Orquestração, automação e infraestrutura
 
