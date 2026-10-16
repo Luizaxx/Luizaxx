@@ -11,6 +11,12 @@
 -  Graduanda em **Engenharia de Software** na UnB/FCTE 
 -  Interesses: modelagem de dados, arquitetura de pipelines, qualidade de dados e LLMs aplicados a dados
 
+Outras áreas que me interessam
+ Arquitetura de software: padrões arquiteturais, design patterns, modelagem UML (casos de uso, classes, sequência, componentes)
+ Modelagem de processos: BPMN para mapear e otimizar fluxos de negócio
+ Engenharia de requisitos: elicitação, especificação, histórias de usuário e priorização
+ Qualidade e testes de software: avaliação com ISO/IEC 25010 e GQM, planejamento e execução de testes
+
 
 ### Stack de dados
 
